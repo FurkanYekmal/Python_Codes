@@ -1,0 +1,22 @@
+Russia 17,098,246
+Antarctica 14,000,000
+Canada 9,984,670
+China 9,596,961
+USA 9,833,517 
+Brazil 8,515,767
+Australia 7,692,024
+India 3,287,263
+Argentina 2,780,400
+Kazakhstan 2,724,900
+Algeria 2,381,741
+DR Congo 2,344,858
+Denmark 2,220,093
+Saudi-Arabia 2,149,690
+Mexico 1,964,375
+Indonesia 1,904,569
+Sudan 1,861,484
+Libya 1,759,540
+Iran 1,648,195
+Mongolia 1,564,110
+Peru 1,285,216
+Chad 1,284,000
